@@ -46,6 +46,8 @@ Lancaster University
 
 ANNUAL CONFERENCE OF MANAGEMENT CHALLENGES 2021
 
+Keynote presentation
+
 ???
 This slide uses:
 - a custom `title-slide` class that removes the slide number from the title slide
