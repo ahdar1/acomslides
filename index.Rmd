@@ -1,0 +1,81 @@
+---
+title: "Changes in Consumer Behaviour during the Covid-19 Pandemic"
+subtitle: "ANNUAL CONFERENCE OF MANAGEMENT CHALLENGES 2021"
+author: "Ahmad Daryanto"
+institute: "Lancaster University"
+date: "2021/10/16"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - rladies
+      - rladies-fonts
+      - css/rladies-mod.css
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 4:3
+---
+
+```{r setup, include = FALSE}
+# loading libraries
+library(tidyverse)
+library(palmerpenguins)
+library(fontawesome)
+
+# preset code chunk options
+knitr::opts_chunk$set(dpi = 300,            # ensures high resolution images
+                      echo = FALSE,         # FALSE: code chunks don't show
+                      warning = FALSE,      # FALSE: suppresses warning messages
+                      error = FALSE)        # FALSE: Suppresses error messages
+```
+
+class: title-slide, center, middle, inverse
+background-image: url(img/sky.jpg)
+background-position: bottom
+background-size: cover
+
+# `r rmarkdown::metadata$title`
+
+Ahmad Daryanto
+
+Lancaster University
+
+ANNUAL CONFERENCE OF MANAGEMENT CHALLENGES 2021
+
+???
+This slide uses:
+- a custom `title-slide` class that removes the slide number from the title slide
+- a background image
+  - background-image: url(img/PurpleSky.jpg)
+  - background-position: bottom
+  - background-size: cover
+
+---
+class: reverse
+
+.left-column[
+# ACOM
+]
+
+.right-column[
+
+## Working paper 
+Attachment to offline stores and consumer behaviours during the COVID-19 Pandemic 
+
+author: Ahmad Daryanto, Zening Song
+
+Lancaster University, Beijing Foreign Studies University
+
+Main objective: how the COVID-19 pandemic affects shoppers’ emotional relationship with offline stores
+
+.footnote[
+
+----
+These slides use R-ladies]
+]
+
+
