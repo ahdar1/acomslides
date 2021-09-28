@@ -76,7 +76,7 @@ Main objective: how the COVID-19 pandemic affects shoppers’ emotional relation
 .footnote[
 
 ----
-These slides use R-ladies]
+* under review]
 ]
 
 
