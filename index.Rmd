@@ -1,9 +1,9 @@
 ---
 title: "Email Communication Literacy"
 subtitle: "Webinar UKM Saisuak"
-author: "Ahmad Daryanto"
+author: "Ahdar"
 institute: "UKM Saisuak"
-date: "2021/10/16"
+date: "2021"
 output:
   xaringan::moon_reader:
     lib_dir: libs
