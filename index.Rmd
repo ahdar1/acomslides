@@ -56,7 +56,7 @@ This slide uses:
 class: reverse
 
 .left-column[
-# Working paper
+# Webinar
 ]
 
 .right-column[
